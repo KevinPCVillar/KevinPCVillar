@@ -4,7 +4,7 @@
 📍 Chihuahua, Chihuahua, México
 📧 kevinpcvillar@gmail.com  
 🌐 https://github.com/KevinPCVillar?tab=repositories 
-🔗 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/kevin-villar-30bb0417b/)) | [GitHub]([https://github.com/tuusuario](https://github.com/KevinPCVillar))  
+🔗 [LinkedIn]([https://www.linkedin.com/in/kevin-villar-30bb0417b/]) | [GitHub]([https://github.com/tuusuario](https://github.com/KevinPCVillar))  
 
 ---
 
@@ -29,19 +29,19 @@ Me apasiona la arquitectura de software, la optimización de procesos y la imple
 ## 🚀 Experiencia Profesional  
 
 ### delpunto innovation (https://www.delpunto.com/es)  
-📅 08/Ene/18 - 04/Jun/18  
-📌 **Cargo:** Residente
-📌 **Responsabilidades y logros:**  
-- 🔹Fui asignado la responsabilidad de liderar el desarrollo de un proyecto denominado "Integración con plataforma de localización", cuyo objetivo principal era optimizar y automatizar la gestión de los recursos multilingües de la aplicación SmartLPA.
+- 📅 08/Ene/18 - 04/Jun/18  
+- 📌 **Cargo:** Residente
+- 📌 **Responsabilidades y logros:**  
+- Me fué asignada la responsabilidad de liderar el desarrollo de un proyecto denominado "Integración con plataforma de localización", cuyo objetivo principal era optimizar y automatizar la gestión de los recursos multilingües de la aplicación SmartLPA.
 
-Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que establecía una conexión eficiente con la API de OneSky, una plataforma de localización utilizada para la traducción y administración de archivos de recursos en múltiples idiomas. Esta solución permitía la carga y descarga automatizada de archivos de localización, reduciendo significativamente la intervención manual en el proceso de gestión de traducciones.
+- Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que establecía una conexión eficiente con la API de OneSky, una plataforma de localización utilizada para la traducción y administración de archivos de recursos en múltiples idiomas. Esta solución permitía la carga y descarga automatizada de archivos de localización, reduciendo significativamente la intervención manual en el proceso de gestión de traducciones.
 - 🔹 Tecnologías utilizadas: ASP.NET, SQL Server, OneSky
 
 ### delpunto innovation (https://www.delpunto.com/es)  
-📅 04/Jun/18 - 01/Oct/23  
-📌 **Cargo:** Ingeníero de Software
-📌 **Responsabilidades y logros:**  
-- 🔹Como parte de mi labor dentro del equipo de desarrollo, he participado activamente en el mantenimiento y actualización de la aplicación web SmartLPA, un sistema desarrollado en MVC5 con SQL Server como base de datos. Esta aplicación está diseñada para gestionar y controlar auditorías en empresas, con un enfoque especial en el sector de manufactura, proporcionando herramientas avanzadas para la supervisión y análisis de procesos.
+- 📅 04/Jun/18 - 01/Oct/23  
+- 📌 **Cargo:** Ingeníero de Software
+- 📌 **Responsabilidades y logros:**  
+- Como parte de mi labor dentro del equipo de desarrollo, he participado activamente en el mantenimiento y actualización de la aplicación web SmartLPA, un sistema desarrollado en MVC5 con SQL Server como base de datos. Esta aplicación está diseñada para gestionar y controlar auditorías en empresas, con un enfoque especial en el sector de manufactura, proporcionando herramientas avanzadas para la supervisión y análisis de procesos.
 
 Dentro de mis responsabilidades en este proyecto, destacan:
 
@@ -51,10 +51,10 @@ Dentro de mis responsabilidades en este proyecto, destacan:
 - 🔹 Tecnologías utilizadas: ASP.NET, SQL Server, Azure Functions, Telerik, Hangfire
 
 ### delpunto innovation (https://www.delpunto.com/es)  
-📅 01/Oct/23 - Actualidad  
-📌 **Cargo:** Líder Ingeníero de Software
-📌 **Responsabilidades y logros:**  
-- 🔹Fui asignado como líder del equipo de API de SmartLPA, asumiendo la responsabilidad de ser el owner de la aplicación backend desarrollada en .NET. Mi rol implicó no solo la supervisión técnica del sistema, sino también la implementación de buenas prácticas de desarrollo, aplicando patrones de código limpio como CQRS (Command Query Responsibility Segregation) y asegurando la calidad del software mediante pruebas unitarias.
+- 📅 01/Oct/23 - Actualidad  
+- 📌 **Cargo:** Líder Ingeníero de Software
+- 📌 **Responsabilidades y logros:**  
+- Fuí asignado como líder del equipo de API de SmartLPA, asumiendo la responsabilidad de ser el owner de la aplicación backend desarrollada en .NET. Mi rol implicó no solo la supervisión técnica del sistema, sino también la implementación de buenas prácticas de desarrollo, aplicando patrones de código limpio como CQRS (Command Query Responsibility Segregation) y asegurando la calidad del software mediante pruebas unitarias.
 
 Como líder del equipo, coordiné a un grupo de desarrolladores para llevar a cabo la implementación de los requerimientos asignados, garantizando que cada funcionalidad estuviera bien diseñada, optimizada y alineada con los estándares del proyecto.
 
