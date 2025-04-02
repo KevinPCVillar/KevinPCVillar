@@ -20,7 +20,7 @@ Me apasiona la arquitectura de software, la optimización de procesos y la imple
 ## 💻 Habilidades Técnicas  
 - 🛠️ Lenguajes: C#, Java.
 - 💾 Bases de datos: SQL Server.
-- 📦 Frameworks y Librerías: .NET.
+- 📦 Frameworks y Librerías: .NET, MVC, ASP.NET
 - ☁️ DevOps / Cloud: Azure.
 - 🔍 Otras: GIT, Unit Testing, OneSky, Telerik, Hangfire, Azure Functions.
 
