@@ -39,13 +39,13 @@ Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que esta
 ### delpunto innovation (https://www.delpunto.com/es)  
 - 📅 04/Jun/18 - 01/Oct/23  
 - 📌 **Cargo:** Ingeníero de Software
-- 📌 **Responsabilidades y logros:**  Como parte de mi labor dentro del equipo de desarrollo, he participado activamente en el mantenimiento y actualización de la aplicación web SmartLPA, un sistema desarrollado en MVC5 con SQL Server como base de datos. Esta aplicación está diseñada para gestionar y controlar auditorías en empresas, con un enfoque especial en el sector de manufactura, proporcionando herramientas avanzadas para la supervisión y análisis de procesos.
+- 📌 **Responsabilidades y logros:**  Como parte de mi labor dentro del equipo de desarrollo, participé activamente en el mantenimiento y actualización de la aplicación web SmartLPA, un sistema desarrollado en MVC5 con SQL Server como base de datos. Esta aplicación está diseñada para gestionar y controlar auditorías en empresas, con un enfoque especial en el sector de manufactura, proporcionando herramientas avanzadas para la supervisión y análisis de procesos.
 
     Dentro de mis responsabilidades en este proyecto, destacan:
 
   - Gestión de la localización del proyecto SmartLPA: Lideré la implementación y mantenimiento de la capa de localización de la aplicación, asegurando su compatibilidad con más de 15 idiomas. Para ello, me apoyé en la aplicación web que desarrollé durante mis residencias profesionales, optimizando la integración con la plataforma de traducción utilizada por la empresa.
   - Mantenimiento y actualización de reportes: Me encargué de la administración y mejora de los reportes generados en SmartLPA, los cuales están basados en Telerik Reporting y optimizados mediante el uso de procedimientos almacenados en SQL Server. Estas mejoras permitieron ofrecer informes más dinámicos, precisos y eficientes para los usuarios del sistema.
-  - Gestión del sistema de notificaciones: Soy responsable del mantenimiento y optimización del módulo de notificaciones dentro de SmartLPA. Este sistema tiene la capacidad de enviar notificaciones directas y automáticas a los usuarios diariamente, utilizando Azure Functions para garantizar un envío programado y eficiente.
+  - Gestión del sistema de notificaciones: Fuí responsable del mantenimiento y optimización del módulo de notificaciones dentro de SmartLPA. Este sistema tiene la capacidad de enviar notificaciones directas y automáticas a los usuarios diariamente, utilizando Azure Functions para garantizar un envío programado y eficiente.
 
 ### delpunto innovation (https://www.delpunto.com/es)  
 - 📅 01/Oct/23 - Actualidad  
