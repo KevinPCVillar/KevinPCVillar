@@ -8,8 +8,6 @@
 
 🌐 https://github.com/KevinPCVillar?tab=repositories 
 
-🔗 [Linkedin](www.linkedin.com/in/kevin-villar-30bb0417b) - [Github](https://github.com/KevinPCVillar)
-
 
 ## 📖 Sobre Mí  
 Soy un desarrollador backend web especializado en .NET, con sede en Chihuahua, México. Cuento con amplia experiencia en diversas tecnologías web, incluyendo ASP.NET, Azure Functions y Telerik, lo que me ha permitido desarrollar soluciones robustas y escalables para diversas aplicaciones.
@@ -55,7 +53,6 @@ Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que esta
     Como líder del equipo, coordiné a un grupo de desarrolladores para llevar a cabo la implementación de los requerimientos asignados, garantizando que cada funcionalidad estuviera bien diseñada, optimizada y alineada con los estándares del proyecto.
     Uno de los desarrollos más relevantes bajo mi liderazgo fue la integración del checklist VDA 6.3 dentro de la aplicación SmartLPA. Este proceso requirió un enfoque meticuloso, en el cual participé activamente en todas sus etapas: diseño, planeación y desarrollo. La implementación de este requerimiento representó un desafío clave, ya que implicó adaptar el     
     sistema para cumplir con los estándares específicos de auditoría de calidad en la industria automotriz.
-    Gracias a mi gestión y la colaboración del equipo, logramos una integración eficiente y funcional, mejorando la capacidad de SmartLPA para ofrecer herramientas avanzadas de auditoría y control de calidad.
 
 
 
@@ -73,4 +70,7 @@ Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que esta
 
 
 📧 kevinpcvillar@gmail.com
-🔗 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/kevin-villar-30bb0417b/)) | [GitHub]([https://github.com/tuusuario](https://github.com/KevinPCVillar))   
+
+🔗 [Linkedin](www.linkedin.com/in/kevin-villar-30bb0417b) - [Github](https://github.com/KevinPCVillar)
+
+📱 614-228-7947
